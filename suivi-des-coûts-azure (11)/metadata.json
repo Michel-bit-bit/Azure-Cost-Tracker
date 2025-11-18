@@ -1,0 +1,5 @@
+{
+  "name": "Suivi des coûts Azure",
+  "description": "Une application web pour suivre, analyser et visualiser l'évolution des coûts de votre infrastructure Microsoft Azure au fil du temps.",
+  "requestFramePermissions": []
+}
